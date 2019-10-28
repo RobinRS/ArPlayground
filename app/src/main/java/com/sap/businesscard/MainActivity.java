@@ -53,6 +53,8 @@ public class MainActivity extends AppCompatActivity implements Scene.OnUpdateLis
     private static final int CAMERA = 404;
 
 
+    //TODO: Tidy UP!!
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
